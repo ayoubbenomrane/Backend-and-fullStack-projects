@@ -10,8 +10,8 @@ Welcome to my collection of backend development projects. Each one represents a 
 - [📖 DurarQuran](https://github.com/ayoubbenomrane/Durar-Al-Quran)  
   A web-based application designed to streamline the operations of a Quran learning institution.
 
-- [🎣 Fishing App]([https://github.com/ayoubbenomrane/Fishing-Competition-Score-App](https://github.com/ayoubbenomrane/fishing-competition-management-system))  
-  Backend for a score-tracking app used in fishing competitions. Supports player tracking, scoring, and final rankings over multiple days.
+- [🎣 Fishing App](https://github.com/ayoubbenomrane/fishing-competition-management-system)  
+  Full stack app for a score-tracking app used in fishing competitions. Supports player tracking, scoring, and final rankings over multiple days.
 
 - [🎫 Activity Booking Platform](https://github.com/ayoubbenomrane/Activity-booking-project)  
   backend system inspired by **GetYourGuide**, replicating core booking and activity management features through a modular and scalable API design.
