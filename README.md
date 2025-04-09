@@ -1,6 +1,6 @@
 # 🛠️ Backend Projects
 
-Welcome to my collection of backend development projects. Each one represents a unique problem I tackled using modern backend technologies like **FastAPI**, **Node.js**, and **PostgreSQL**.
+Welcome to my collection of backend development and full stack projects. Each one represents a unique problem I tackled using modern backend technologies like **FastAPI**, **Node.js**, and **PostgreSQL**.
 
 ## 📦 Projects Overview
 
